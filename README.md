@@ -5,17 +5,13 @@
 
 ![screenshot](./screenshot.PNG)
 
-Additional description about the project and its features.
+
 
 ## Built With
 
 - JavaScript
 - HTML
 - CSS
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
 
 
 ## Authors
